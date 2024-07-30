@@ -195,12 +195,12 @@ jobs:
 The project successfully demonstrated the implementation of a complete DevOps lifecycle for a Go web application. By leveraging Terraform, Docker, Kubernetes, GitHub Actions, Helm, ArgoCD, Prometheus, and Grafana. 
 I was able to achieve:
 
-Automated and secure infrastructure provisioning.
-Streamlined application deployment and management.
-Enhanced monitoring and visualization capabilities.
-Consistent and reliable CI/CD processes adhering to Agile methodologies.
+- Automated and secure infrastructure provisioning with _**Terraform**_.
+- Streamlined application deployment and management with _**EKS**_ and _**Helm**_.
+- Enhanced monitoring and visualization capabilities with _**Prometheus**_ and _**Grafana**_.
+- Consistent and reliable CI/CD processes adhering to Agile methodologies with _**Github Actions**_ and _**ArgoCD**_.
 
-This comprehensive DevOps Transformation project served as a showcase for my advanced skills and knowledge in managing cloud-native applications and infrastructure, through DevOps best practices, in an Agile environment.
+This comprehensive DevOps Transformation project serves as a showcase for my advanced skills and knowledge in managing cloud-native applications and infrastructure, through DevOps best practices, in an Agile environment.
 
 
 
